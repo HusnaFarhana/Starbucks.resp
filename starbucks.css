@@ -1,0 +1,131 @@
+
+.one{
+    box-shadow: 0 5px 10px #dbdada;
+}
+.findastore{
+    background-color: transparent;
+    border: 0ch;  
+    font-size: medium;
+    font-weight: 600;
+    
+}
+.signin{
+    background-color: transparent;
+    border-color: black;
+    border-width: 1.5px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+.joinnow{
+    background-color: black;
+    color: white;
+    border-radius: 20px; 
+    font-weight: 600;
+}
+.logoo{
+    width:50px ;
+    
+}
+.nav-link{
+    font-weight: 600;
+}
+.loc{
+    width: 26px;
+    height: 26px;
+}
+.two{
+    margin-top: 2.5rem;
+    background-color: #00b388;
+}
+
+.text2{
+    font-size: 19px;
+    font-weight: 500;
+}
+.cards{
+    width: 100%;
+}
+.family{
+    width: 100%;
+}
+.buynow{
+    background-color: transparent;
+    border-color: black;
+    border-width: 1.5px;
+    border-radius: 20px;
+    font-weight: 400;
+}
+.three{
+    
+    margin-top: 2.5rem;
+    background-color: #1e3932;
+}
+.linknow{
+    background-color: transparent;
+    border-color: white;
+    border-width: 1.5px;
+    border-radius: 20px;
+    font-weight: 600;
+       
+}
+.text3{
+    font-weight: 700;
+    font-size:3em;
+}
+.text41{
+    font-weight: 500;
+    font-size:3em;
+}
+.text42{
+    font-size: 28px;
+    font-weight: 700;
+}
+.text4{
+    font-size: 23px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.four{   
+margin-top: 2.5rem;
+background-color: #1e3932;
+}
+.dataa{
+    font-weight: 500;
+}
+.five{   
+    margin-top: 2.5rem;
+    background-color: #d50032;
+}
+.six{   
+    margin-top: 2.5rem;
+}
+.seven{   
+    margin-top: 2.5rem;
+    box-shadow: 0 5px 10px #dbdada;
+    
+}
+.aboutt{
+    margin-left: 50px;
+}
+.lin{
+text-decoration: none;
+ color: black;
+}
+.lin:hover{
+ text-decoration: underline;
+ color: black;
+}
+.info{
+    text-decoration: none;
+    color: gray;
+    font-weight: 500;
+}
+.info:hover{
+    color: rgb(63, 62, 62);
+}
+.block{
+    margin-right: 50px;
+ 
+}
